@@ -126,8 +126,4 @@ This repo doesn't include a license file. If you plan to share, add a `LICENSE` 
 
 ---
 
-## Contact
 
-If you have questions about the dataset or the notebook, open a GitHub issue or reach out via a contact method added to the repository.
-
-Happy analyzing! 💡
